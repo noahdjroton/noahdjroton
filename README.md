@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm Djroton</h1>
 <h3 align="left">Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noahdjroton&label=Profile%20views&color=0e75b6&style=flat" alt="noahdjroton" /> </p>
-
-<p align="left"> <a href="https://twitter.com/djroton" target="blank"><img src="https://img.shields.io/twitter/follow/djroton?logo=twitter&style=for-the-badge" alt="djroton" /></a> </p>
-
 - 🔭 I’m currently working on [Suite Dispatch](https://www.suitedispatch.com/fr/)
   
 - ⚒️ Building tools that have a positive impact on people's lives
