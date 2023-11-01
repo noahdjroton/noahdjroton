@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/djroton" target="blank"><img src="https://img.shields.io/twitter/follow/djroton?logo=twitter&style=for-the-badge" alt="djroton" /></a> </p>
 
 - 🔭 I’m currently working on [Suite Dispatch](https://www.suitedispatch.com/fr/)
+- 
+- ⚒️ Building tools that have a positive impact on people's lives
 
 - 📫 How to reach me **djrotonsossou@gmail.com**
 
