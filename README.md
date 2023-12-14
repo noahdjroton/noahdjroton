@@ -5,7 +5,7 @@
   
 - ⚒️ Building tools that have a positive impact on people's lives
 
-- 📫 How to reach me **djrotonsossou@gmail.com**
+- 📫 To connect with me, please send an email to  **djrotonsossou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
